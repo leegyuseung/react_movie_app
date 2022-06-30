@@ -4,6 +4,6 @@
 
 # Go Project !
 
-<a href="https://leegyuseung.github.io/react_movie_app/">notion</a>
+<a href="https://leegyuseung.github.io/react_movie_app/">Project</a>
 
 나중에 CSS 바꿀 예정입니다.
